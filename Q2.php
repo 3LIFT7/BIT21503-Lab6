@@ -7,19 +7,19 @@
     <?php
     $students = [
         [
-            'name' => 'Arfat',
+            'name' => 'Ali',
             'program' => 'BIT',
-            'age' => 21
+            'age' => 22
         ],
         [
-            'name' => 'Ali',
+            'name' => 'ibrahim',
             'program' => 'BIS',
-            'age' => 20
+            'age' => 21
         ],
         [
             'name' => 'Ahmed',
             'program' => 'BIC',
-            'age' => 22
+            'age' => 20
         ]
     ];
     ?>
